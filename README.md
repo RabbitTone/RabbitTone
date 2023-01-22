@@ -11,6 +11,7 @@ I'm a member of the Association of Information Technology Proffesionals (AITP).
 - Email: jmreyes15@miners.utep.edu
 - [LinkedIn](linkedin.com/in/josemiguelreyes)
 - [Personal Library](/BOOKS.md)
+- [Music Room](/MUSIC.md)
 <!--
 **RabbitTone/RabbitTone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

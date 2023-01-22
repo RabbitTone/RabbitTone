@@ -7,11 +7,10 @@ Looking to learn more about programming, data science, and Cybersecurity to empl
 
 I'm a member of the Association of Information Technology Proffesionals (AITP). 
 
-Besides my career history you'll also find a neat list of albums I've listened to and books I've read for reccomendations. 
-
 - Pronouns are Any/All
-- email: jmreyes15@miners.utep.edu
+- Email: jmreyes15@miners.utep.edu
 - [LinkedIn](linkedin.com/in/josemiguelreyes)
+- [Personal Library](/RabbitTone/BOOKS.md)
 <!--
 **RabbitTone/RabbitTone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

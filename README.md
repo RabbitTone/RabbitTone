@@ -10,7 +10,7 @@ I'm a member of the Association of Information Technology Proffesionals (AITP).
 - Pronouns are Any/All
 - Email: jmreyes15@miners.utep.edu
 - [LinkedIn](linkedin.com/in/josemiguelreyes)
-- [Personal Library](/RabbitTone/BOOKS.md)
+- [Personal Library](/BOOKS.md)
 <!--
 **RabbitTone/RabbitTone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

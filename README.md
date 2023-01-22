@@ -8,6 +8,8 @@ Looking to learn more about programming, data science, and Cybersecurity to empl
 I'm a member of the Association of Information Technology Proffesionals (AITP). 
 
 - Pronouns are Any/All
+- Aries :aries: 
+- INFJ
 - Email: jmreyes15@miners.utep.edu
 - [LinkedIn](linkedin.com/in/josemiguelreyes)
 - [Personal Library](/BOOKS.md)
